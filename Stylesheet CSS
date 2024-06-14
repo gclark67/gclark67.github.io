@@ -1,0 +1,37 @@
+@font-family {
+  font-family: Merriweather;
+}
+
+p {
+  font-family: Merriweather;
+}
+
+table, th, td {
+  border: 1px solid;
+  border-collapse: collapse;
+  font-family: "Merriweather";
+}
+
+tr:hover {
+  background-color: #D6EEEE;
+}
+
+h1 {
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Merriweather";
+}
+
+h2 {
+  font-family: "Merriweather";
+}
+
+h3 {
+  color: grey;
+  font-size: 18px;
+  text-decoration: underline;
+  font-family: "Merriweather";
+}
+
